@@ -1,0 +1,38 @@
+@media (min-width: 768px){
+
+
+.non_web{
+	display: none;
+}
+	
+#mob{
+	display: none;
+}
+
+#web {
+    display: block;
+    /*height: 64px;*/
+}
+
+.custrow{
+justify-content: space-between;
+}
+
+.footer_menu{
+	/*width: 70%;*/
+	margin: auto;
+}
+
+.secure_images{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerhr{
+	top: 75%;
+}
+
+
+
+}
+

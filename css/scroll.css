@@ -1,0 +1,11 @@
+.font-title, .font-xm, .menu-principal {font-family: ivymode, sans-serif; font-weight: 400; font-style: normal;}
+.font-title, .menu-principal {font-size:14.5vh; line-height:1;}
+/*.has-scroll-smooth body {overflow: auto;}*/
+.has-scroll-smooth [data-scroll-container] {min-height: 100vh;}
+.has-scroll-dragging .c-scrollbar_thumb {cursor: -webkit-grabbing; cursor: grabbing;}
+.bloc-3 {margin-left:25%;}
+.bloc-3r {margin-right:25%;}
+.container_c {width:calc(100% - calc(var(--pad) * 2)); margin:0 auto; position:relative;}
+
+#homepage-stories .alignbottom {order:2;}
+#homepage-stories .bloc-3, #center .subtitle, #center .font-title {text-align:center;}
